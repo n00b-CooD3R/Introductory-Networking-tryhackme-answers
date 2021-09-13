@@ -1,0 +1,5 @@
+|-----------------------------------------------------------------------------|
+|    TRYHACKME room link = https://tryhackme.com/room/introtonetworking       |
+|-----------------------------------------------------------------------------|
+Try to answer yourself dont copypaste answers from here
+this is only for checking or if you have doubts regarding the room.
